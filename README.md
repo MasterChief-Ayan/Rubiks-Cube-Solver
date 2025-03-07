@@ -1,8 +1,15 @@
 # Rubiks-Cube-Solver
+## Overview
+• Developed a virtual Rubik’s Cube (3x3) using C++ with efficient data structures.
+
+• Achieved solving time under 3 seconds for a cube jumbled 8 times using BFS, DFS, and IDDFS.
+
+• Implemented Korf’s IDA* Algorithm, reducing solving time to under 10 seconds for a cube jumbled 13 times.
+
+• Optimized search heuristics to improve efficiency and reduce computation time ensuring solution in ≤20 moves
 
 
-
-Key Learnings from the project:  
+## Key Learnings from the project:  
 
 I gained insight into how to model a real-world object, like a Rubik’s Cube, in a way that a computer can understand. I discovered how to decompose a larger problem, such as building a complete Rubik’s Cube solver, into smaller, manageable sub-problems using basic models and controllers like Rubik’s Cube representations and solvers.  
 
